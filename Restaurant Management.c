@@ -12,7 +12,7 @@ int main_page()
     system("cls");
     system("color 0B");
 
-    printf("\n\n\n\n\n\t\t       @@_@_\n\t\t         `'*'  Welcome to Cafe Nirvana \n\t\t\t\t\t\t\t`'*'`-@@_@\n\n");
+    printf("\n\n\n\n\n\t\t       @@_@_\n\t\t         `'*'  Welcome to Cafe One && Zero \n\t\t\t\t\t\t\t`'*'`-@@_@\n\n");
     printf("\n\n\n\n\t\t\t    Quality food.Serves good. (^_^)\n\n                       ");
     for (i=0;i<36;i++)
      {
@@ -256,7 +256,7 @@ int main()
     {
         system("cls");
         system("color 30");
-        printf("\n\n\n\n\n\t\t       @@_@_\n\t\t         `'*'`  Cafe Nirvana\n\t\t\t\t\t`'*'`-@@_@\n\n");
+        printf("\n\n\n\n\n\t\t       @@_@_\n\t\t         `'*'`  Cafe One && Zero\n\t\t\t\t\t`'*'`-@@_@\n\n");
         printf("\n\n\n\t\t\tThis session order recieved : %d\n\n",token);
         printf("\t\t\tThis session bill paid      : %d\n\n",payment_counter);
         if(payment_counter<token)
